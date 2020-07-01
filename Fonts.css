@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Font One';
+  src: url('./font1/font-one-regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Font One';
+  src: url('./font1/font-one-bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
