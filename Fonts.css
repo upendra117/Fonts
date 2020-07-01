@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'Font One';
+  font-family: 'Eurostile normal';
   src: url('./EurostileLTStd-Ex2-normal.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Font One';
+  font-family: 'Eurostile Bold';
   src: url('./EurostileExtended-Bold.woff') format('woff');
   font-weight: 700;
   font-style: Bold;
